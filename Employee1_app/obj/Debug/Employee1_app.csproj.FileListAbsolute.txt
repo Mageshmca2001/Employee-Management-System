@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\bin\Debug\Employee1_app.exe.config
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\bin\Debug\Employee1_app.exe
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\bin\Debug\Employee1_app.pdb
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.Form1.resources
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.Form2.resources
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.Properties.Resources.resources
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.csproj.GenerateResource.cache
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.exe
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.pdb
+C:\Users\user\Desktop\React\Employee1_app\Employee1_app\obj\Debug\Employee1_app.Form3.resources
